@@ -62,7 +62,7 @@ Predict student performance based on study habits, attendance, and class partici
 
 ### Study Hours vs Total Score
 
-![Study Hours vs Score](images/study_hours.png)
+![Study Hours vs Score](student performance prediction/images/study_hours.png)
 
 Insight:
 - Strong positive linear relationship  
