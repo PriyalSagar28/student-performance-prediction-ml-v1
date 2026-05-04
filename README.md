@@ -62,7 +62,7 @@ Predict student performance based on study habits, attendance, and class partici
 
 ### Study Hours vs Total Score
 
-![Study Hours vs Score](student performance prediction/images/study_hours.png)
+![Study Hours vs Score](student%20performance%20prediction/images/study_hours.png)
 
 Insight:
 - Strong positive linear relationship  
@@ -73,7 +73,7 @@ Insight:
 
 ### Attendance vs Total Score
 
-![Attendance vs Score](images/attendance.png)
+![Attendance vs Score](student%20performance%20prediction/images/attendance.png)
 
 Insight:
 - Weak correlation  
@@ -83,7 +83,7 @@ Insight:
 
 ### Class Participation vs Total Score
 
-![Participation vs Score](images/participation.png)
+![Participation vs Score](student%20performance%20prediction/images/participation.png)
 
 Insight:
 - Moderate influence  
